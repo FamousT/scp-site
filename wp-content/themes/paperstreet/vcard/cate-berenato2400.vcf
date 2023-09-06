@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cate Sullivan (née Berenato)
+FN:Cate Sullivan (née Berenato)
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:
+TEL;TYPE=WORK,VOICE:(404) 856-3254
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:csullivan@robbinsfirm.com
+END:VCARD

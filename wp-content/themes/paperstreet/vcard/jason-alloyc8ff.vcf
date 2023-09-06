@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jason Alloy
+FN:Jason Alloy
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:678-701-9374
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:jalloy@robbinsfirm.com
+END:VCARD

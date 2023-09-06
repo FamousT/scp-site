@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Charles &#8220;Chuck&#8221; Boring
+FN:Charles &#8220;Chuck&#8221; Boring
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:
+TEL;TYPE=WORK,VOICE:404-856-3253
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:cboring@robbinsfirm.com
+END:VCARD

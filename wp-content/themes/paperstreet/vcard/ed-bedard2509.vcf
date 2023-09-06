@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ed Bedard
+FN:Ed Bedard
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:404-856-3263
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:ebedard@robbinsfirm.com
+END:VCARD

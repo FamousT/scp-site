@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Macy McFall
+FN:Macy McFall
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:
+TEL;TYPE=WORK,VOICE:678) 701-9381
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:mmcfall@robbinsfirm.com
+END:VCARD

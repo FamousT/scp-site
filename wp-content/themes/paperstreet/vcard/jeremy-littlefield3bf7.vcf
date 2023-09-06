@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jeremy Littlefield
+FN:Jeremy Littlefield
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:678-701-9376
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:jlittlefield@robbinsfirm.com
+END:VCARD

@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Michael Forrest
+FN:Michael Forrest
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:(678) 701-9375
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:mforrest@robbinsfirm.com
+END:VCARD

@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Carey Miller
+FN:Carey Miller
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:
+TEL;TYPE=WORK,VOICE:(404) 856-3286
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:cmiller@robbinsfirm.com
+END:VCARD

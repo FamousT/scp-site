@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Carla Foster
+FN:Carla Foster
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:
+TEL;TYPE=WORK,VOICE:678-701-9379
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:cfoster@robbinsfirm.com
+END:VCARD

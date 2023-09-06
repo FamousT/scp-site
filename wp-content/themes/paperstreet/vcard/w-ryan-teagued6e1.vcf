@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:W. Ryan Teague
+FN:W. Ryan Teague
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:404-856-3278
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:rteague@robbinsfirm.com
+END:VCARD

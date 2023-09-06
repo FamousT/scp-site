@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Danielle Hernandez
+FN:Danielle Hernandez
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:404.856.3265
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:dhernandez@robbinsfirm.com
+END:VCARD

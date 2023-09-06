@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Anna Edmondson
+FN:Anna Edmondson
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:
+END:VCARD

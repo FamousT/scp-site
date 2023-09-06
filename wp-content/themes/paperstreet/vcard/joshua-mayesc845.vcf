@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Joshua Mayes
+FN:Joshua Mayes
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:
+TEL;TYPE=WORK,VOICE:404-856-3266
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:jmayes@robbinsfirm.com
+END:VCARD

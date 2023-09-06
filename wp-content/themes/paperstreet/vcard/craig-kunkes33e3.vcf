@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Craig Kunkes
+FN:Craig Kunkes
+ORG:Robbins Firm
+URL:https://www.robbinsfirm.com
+TITLE:Attorney
+TEL;TYPE=WORK,VOICE:404-856-3271
+TEL;TYPE=FAX,WORK:
+PHOTO;ENCODING=b;VALUE=URI:
+EMAIL;TYPE=PREF,INTERNET:ckunkes@robbinsfirm.com
+END:VCARD
